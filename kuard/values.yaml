@@ -55,7 +55,7 @@ ingress:
   tls:
    - secretName: kuard
      hosts:
-       - kuad.k8sdev.io
+       - kuard.k8sdev.io
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
